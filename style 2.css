@@ -1,0 +1,44 @@
+body{
+    background-color: #EEEEEE;
+}
+h1{
+    color: #393E46;
+    
+}
+h4{
+    color: #393E46;
+}
+h2{
+    color: #393E46;
+}
+h3{
+    color: #393E46;
+}
+td{
+    color:#393E46 ;
+}
+li{
+    color: #393E46;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color: #393E46;
+
+    
+    border-width: 5px;
+    
+}
+s10 {
+    font-size:100px;
+    color:#393E46;
+}
+s9{
+    font-size: 50px;
+}
+hide{
+    visibility: hidden;
+}
+h5{
+    color: #393E46;
+}
